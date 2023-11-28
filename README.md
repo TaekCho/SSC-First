@@ -1,18 +1,25 @@
-<h1>SSC(SangwooSuminCho)</h1>
+# SSC(SangwooSuminCho)
 
-<h2>Rough Draft:</h2>
+
+
+## Rough Draft:
 https://docs.google.com/document/d/10JzUfo-NiMnFa3RQVp5KpsdOga-2LX6-ixd1E6UIGkQ/edit
 
-<h3>Objectives:</h3>
-<ul>
-  <li>Get familiar with various collaboration tools for future projects.</li>
-  <li>Encounter procedural problems in cooperation, and solve them accordingly.</li>
-  <li>Share useful collaboration tools for better productivity</li>
-</ul>
+### Objectives:
+- Get familiar with various collaboration tools for future projects.
+- Encounter procedural problems in cooperation, and solve them accordingly.
+- Share useful collaboration tools for better productivity.
 
-<h3>Common Ground</h3>
-<strong>Color:</strong>
+## Common Ground
+<strong>Colors to Use:</strong>
 https://colorhunt.co/palette/000000f4dfc8f4eae0faf6f0
+
+## Stacks
+
+1.  GitHub
+1.  React
+1.  Bootstrap
+
 
 <hr>
 
