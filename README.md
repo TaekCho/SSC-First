@@ -1,3 +1,21 @@
+<h1>SSC(SangwooSuminCho)</h1>
+
+<h2>Rough Draft:</h2>
+https://docs.google.com/document/d/10JzUfo-NiMnFa3RQVp5KpsdOga-2LX6-ixd1E6UIGkQ/edit
+
+<h3>Objectives:</h3>
+<ul>
+  <li>Get familiar with various collaboration tools for future projects.</li>
+  <li>Encounter procedural problems in cooperation, and solve them accordingly.</li>
+  <li>Share useful collaboration tools for better productivity</li>
+</ul>
+
+<h3>Common Ground</h3>
+<strong>Color:</strong>
+https://colorhunt.co/palette/000000f4dfc8f4eae0faf6f0
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
