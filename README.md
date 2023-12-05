@@ -17,7 +17,7 @@ https://colorhunt.co/palette/000000f4dfc8f4eae0faf6f0
 ## Stacks
 
 1.  GitHub
-1.  React
+1.  React[react-router]
 1.  Bootstrap
 
 
