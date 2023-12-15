@@ -1,6 +1,5 @@
-import Card from "./Card";
-import CardGroup from "./CardGroup";
+import Main from "./Main";
 
 export default function Body({}) {
-  return <CardGroup></CardGroup>;
+  return <Main></Main>;
 }
