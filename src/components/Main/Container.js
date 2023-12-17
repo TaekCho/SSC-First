@@ -1,7 +1,7 @@
 import Card from "react-bootstrap/Card";
 import CardGroup from "react-bootstrap/CardGroup";
 
-function Main() {
+export default function Container() {
   return (
     <CardGroup>
       <Card>
@@ -47,5 +47,3 @@ function Main() {
     </CardGroup>
   );
 }
-
-export default Main;

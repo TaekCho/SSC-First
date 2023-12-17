@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./components/Header/Header";
-import Body from "./components/Main/Main";
+import Body from "./components/Main/Container";
 
 function App() {
   return (

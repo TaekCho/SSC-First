@@ -1,5 +1,5 @@
-import Main from "./Main";
+import Container from "./Container";
 
 export default function Body({}) {
-  return <Main></Main>;
+  return <Container></Container>;
 }
